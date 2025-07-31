@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/saadkarim247/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saadkarim247/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
