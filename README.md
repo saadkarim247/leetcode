@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/saadkarim247/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/saadkarim247/leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saadkarim247/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saadkarim247/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/saadkarim247/leetcode/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/saadkarim247/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
