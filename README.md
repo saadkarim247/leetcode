@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/saadkarim247/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saadkarim247/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/saadkarim247/leetcode/tree/master/1894-merge-strings-alternately) |
+| [3614-process-string-with-special-operations-ii](https://github.com/saadkarim247/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Math
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/saadkarim247/leetcode/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/saadkarim247/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->
